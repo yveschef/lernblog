@@ -3,6 +3,7 @@ title = "Letzte Lektion "
 date = "2022-08-23"
 draft = false
 pinned = false
+image = "prometheus-design-xqnf71ekec8-unsplash-3-.jpg"
 description = "Erste Lektion WEB\n\n"
 +++
 In unseren ersten WEB Lektion haben wir schon eine Website für einen Blumenladen erstellt. 
