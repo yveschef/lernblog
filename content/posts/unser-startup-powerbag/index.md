@@ -14,7 +14,7 @@ Unser nächster Schritt wird die Vermarktung unseres Produktes sein. Wir wollen 
 
 Wir sind zurzeit sehr hart für unser Projekt am arbeiten, da wir noch vieles abzuklären haben.
 
-![](kabellose-powerbank-mit-10-watt.jpg)
+![Das ist die Powerbank welche wir in unsere Umhängetaschen einnähen werden. Mit dieser Powerbank kann das Handy problemlos ohne Kabel geladen werden. Wir verwenden die neusten Technologien um alle unsere Träume und Vorstellungen möglich zu machen. ](kabellose-powerbank-mit-10-watt.jpg "Unser Powerbank Design")
 
 ![]()
 
